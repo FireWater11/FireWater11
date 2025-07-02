@@ -6,10 +6,9 @@
 * Estudante do curso Aprender e Crescer no Sudotec.
 * Estudante do curso auxiliar de Robótica no CCMLV.
 
-
 # Stack principal de estudos
 * C++
-* C#
+* C
 * Python
 * HTML
 * CSS
