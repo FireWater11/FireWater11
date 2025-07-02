@@ -1,6 +1,6 @@
-#Olá, eu sou o Luidi Augusto!
+# Olá, eu sou o Luidi Augusto!
 
-##Atuações
+## Atuações
 
 *Estudante do Ensino Médio Técnico no CCMLV, Dois Vizinhos, PR.
 *Estudante do curso Aprender e Crescer no Sudotec.
