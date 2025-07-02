@@ -1,9 +1,11 @@
-#Olá, eu sou o Ângelo Hank!
+#Olá, eu sou o Luidi Augusto!
+
 ##Atuações
 
-Desenvolvedor FullStack na CISS S.A (C++ com Qt)
-Desenvolvedor Backend na Archan Labs (NestJs)
-Professor de Infraestrutura e Backend no SUDOTEC
+*Estudante do Ensino Médio Técnico no CCMLV, Dois Vizinhos, PR.
+*Estudante do curso Aprender e Crescer no Sudotec.
+*
+
 
 Stack principal de trabalho
 * C++
