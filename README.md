@@ -1,4 +1,4 @@
-# Olá, eu sou o Luidi Augusto!
+# Olá, eu sou o [Luidi Augusto!](https://www.linkedin.com/in/luidi-augusto-710310359/)
 
 ## Atuações
 
