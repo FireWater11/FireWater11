@@ -7,7 +7,7 @@
 * Estudante do curso auxiliar de Robótica no CCMLV.
 
 # Stack principal de estudos
-* C++
+*   ![C++ Logo]([/assets/images/tux.png](https://w7.pngwing.com/pngs/646/751/png-transparent-the-c-programming-language-computer-programming-programmer-others-blue-class-logo-thumbnail.png))
 * C
 * Python
 * HTML
