@@ -2,15 +2,15 @@
 
 ## Atuações
 
-*Estudante do Ensino Médio Técnico no CCMLV, Dois Vizinhos, PR.
-*Estudante do curso Aprender e Crescer no Sudotec.
-*
+* Estudante do Ensino Médio Técnico no CCMLV, Dois Vizinhos, PR.
+* Estudante do curso Aprender e Crescer no Sudotec.
+* Estudante do curso auxiliar de Robótica no CCMLV.
 
 
-Stack principal de trabalho
+# Stack principal de estudos
 * C++
-* Qt Framework
-* QML
+* C#
 * Python
-* Linux
-* Node
+* HTML
+* CSS
+* TS e JS
