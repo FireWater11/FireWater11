@@ -1,5 +1,4 @@
-## Olá, meu nome é Luidi Augusto!
+## Hi, my name is Luidi Augusto!
 
-#Linguagens de aprendizado/trabalho:
+# I am a Back-End developer, specializing in Java and its Spring framework.
 
-https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png
